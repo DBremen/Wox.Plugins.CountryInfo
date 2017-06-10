@@ -6,7 +6,7 @@
     "Author":"DBremen",
     "Version":"1.0.0",
     "Language":"python",
-    "Website":"https://github.com/DBremen/Wox.Plugins.RandomQuote",
+    "Website":"https://github.com/DBremen/Wox.Plugins.CountryInfo",
     "IcoPath":"icons\\globe.png",
     "ExecuteFileName":"main.py"
 }
