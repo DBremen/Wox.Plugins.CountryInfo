@@ -1,0 +1,12 @@
+{
+    "ID":"4571e3f6fd2b4e6a854f146df430fdc2",
+    "ActionKeyword":"ct",
+    "Name":"CountryInfo",
+    "Description":"Get basic information about a country",
+    "Author":"DBremen",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/DBremen/Wox.Plugins.RandomQuote",
+    "IcoPath":"icons\\globe.png",
+    "ExecuteFileName":"main.py"
+}
